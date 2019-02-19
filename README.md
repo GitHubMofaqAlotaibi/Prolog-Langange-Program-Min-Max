@@ -1,0 +1,1 @@
+# Prolog-Langange-Program-Min-Max
